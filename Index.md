@@ -2,7 +2,7 @@
 layout: home
 title: "Jeremiah Pan"
 ---
-
+<!-- test trigger -->
 Hi, I'm **Jeremiah Pan** — currently an undergraduate physics major at CUHK (Shenzhen).  
 Originally from a liberal arts background, I transitioned to physics out of deep personal interest.
 
